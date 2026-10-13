@@ -1,16 +1,20 @@
-## Hi there 👋
+![PagePhoto](https://github.com/MangoDevx/MangoDevX/blob/main/MangoDevXTwo.png)
+# Hi, I'm Mango 👋
 
-<!--
-**MangoDevx/MangoDevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer that specializes in .NET / C#.<br>
+Current Project -> [Omni-HW](https://github.com/MangoDevx/Omni-HW) a multi-diagnostic hardware tool!
 
-Here are some ideas to get you started:
+## Skills 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Languages & Frameworks:
+  * C# (Up to date with the latest C# & .NET)
+    * APIs (ASP), Database Management, Avalonia, WPF
+  * Web: TypeScript, JavaScript, HTML, CSS, Flutter (Web)
+    * React, NextJs, Tailwind, Bootstrap, Astro, Vue
+  * Other: SQL, Python, Java, GoLang, Flutter (Mobile)
+* Tools: Git & Github, PowerBI, SSRS, ERP (SAP)
+* Interests: full‑stack development, back-end development, front-end development, business process devlopment, manufacturing systems
+
+## Education 🏫
+- B.S. in Computer Science (Aug 2020–Dec 2023)
+- AZ-900 Certified
